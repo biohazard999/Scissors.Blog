@@ -1,3 +1,11 @@
+# This repo has been moved and so it's archived. The new home is at
+
+[https://github.com/xenial-io/Xenial.Blog](https://github.com/xenial-io/Xenial.Blog)
+
+The new home is at [blog.xenial.io](https://blog.xenial.io).
+The old one should still work and host the same content [blog.delegate.at](https://blog.delegate.at).
+
+
 ## This is my blog
 
 Find it on [blog.delegate.at](https://blog.delegate.at).
